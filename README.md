@@ -8,7 +8,7 @@ Just my personal mpv config file, if I need it on another machine. Use it if you
 
 Input config tries to replicate some NLE-like shortcuts. Not quite JKL, editing, but more intuitive I think.
 
-K toggles Play and Pause
-J slows playback by 0.25% every time you press the key
-L speeds up playback by 0.25% every time you press the key
-I switches between playing forward and playing backwards
+K toggles Play and Pause.
+J slows playback by 0.25% every time you press the key.
+L speeds up playback by 0.25% every time you press the key.
+I switches between playing forward and playing backwards.
